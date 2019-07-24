@@ -1,0 +1,7 @@
+mixtures: 100
+max_events_in_mixture: 2
+event_prob: 1
+ebrs:  # event-to-background ratios, dB
+- 3
+- 6
+seed: 37
